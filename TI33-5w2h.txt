@@ -3,21 +3,26 @@
 #5W2H
 
  - O quê é o GitHub?
-
+  O GitHub é uma ferramenta que permite que os desenvolvedores guardem e compartilhem seus códigos. Assim se cria uma comunidade onde os desenvolvedores trabalham juntos em
+projetos colaborativos, fazer upload de arquivos, fazer alterações nos arquivos existentes, criar novos ramos de desenvolvimento e enviar solicitações de alteração para 
+incorporar suas alterações ao código principal.
 
  - Por que usar o GitHub?
-
+  Porque é uma plataforma que possui várias funcionalidades interessantes, como poder guardar seus códigos na nuvem, um jeito fácil de salvá-los, permite compartilhar seus projetos,
+podendo ter ajuda de outros desenvolvedores, o que ajuda na dinâmica do projeto, aprendizagem, etc. Além das diversas ferramentas, como o controle de versões e o rastreamento de erros.
 
  - Quem deve conhecer e usar o GitHub?
-
+  Qualquer pessoa que esteja interessada em aprender ou em desenvolver projetos de código-fonte e queira guardar ou receber ajuda com o seu código
 
  - Onde posso usar/acessar o GitHub?
-
+  Você pode acessá-lo de qualquer lugar, seja na sua casa, trabalho, pelo celular, pc, etc. É só entrar no site pelo link github.com
 
  - Quando devo usar o GitHub?
-
+  Você pode usar quando quiser criar um projeto seja em equipe ou sozinho mesmo.
+Ou também pode usar para colaborar em projetos já existentes que estão em repositórios publicados na plataforma
 
  - Como posso usar o GitHub?
-
+  
 
  - Quanto custa para usar o GitHub?
+  O GitHub possui duas opções, a versão de graça, que todos podemos acessar apenas criando uma conta, porém tem algumas limitações. E a versão paga que é mais completa e recomendada para empresas e trabalho, que custa $4/mês
